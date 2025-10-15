@@ -3909,7 +3909,7 @@
 	(footprint "easyeda2kicad:C0603"
 		(layer "F.Cu")
 		(uuid "97d2e5f0-cb3f-440e-a40d-5f05a59cdf01")
-		(at 63 65 90)
+		(at 60.5 52.32 90)
 		(property "Reference" "C314"
 			(at 0 -2 90)
 			(layer "F.SilkS")
@@ -5910,7 +5910,7 @@
 	(footprint "easyeda2kicad:VQFN-HR-26_L4.0-W3.5_TPS55288RPMR"
 		(layer "F.Cu")
 		(uuid "d08fc818-a3e4-49cc-aeb4-bfa68c865670")
-		(at 69.84 60.5)
+		(at 67.05 56.14)
 		(property "Reference" "U1"
 			(at 0 -5.79 0)
 			(layer "F.SilkS")
